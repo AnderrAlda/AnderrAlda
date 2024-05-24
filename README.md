@@ -6,19 +6,8 @@
 
 ## 🚀 About Me
 
-I'm a code enthusiast who loves exploring the diverse realms of technology. As a dedicated team player, I believe in achieving project goals through collaboration and proficiency. I approach challenges with resilience and thrive in dynamic projects. I value a supportive work environment for personal and professional growth.
-
----
-
-## 💻 Current Experience
-
-### Assembler Institute
-**Full-stack Developer**
-
-- Intensive 7-month master's program with over 1200 hours dedicated to real-world projects using Agile methodologies (Kanban, Scrum).
-- Development of modern and robust applications, focusing on maintainability, scalability, efficiency, and best practices.
-- Stack: JavaScript, HTML5, CSS3, MERN (MongoDB, Express.js, React, Node.js), Git, APIs, Next.js, Redux, Docker.
-- Architectures and tools: DDD, MVC, Cloudinary, Auth0, JSONWebTokens, Jest, React Testing Library, Vercel.
+I am a young software developer with 1 year and 4 months of experience, specializing in backend development. Recently, I have been expanding my knowledge into web development.
+My strengths include dedication, fast learning, and a strong work ethic. I am currently seeking a challenging work environment that will allow me to grow as a developer.
 
 ---
 
